@@ -1,7 +1,7 @@
 #Author : Karl Marrett kdmarrett@gmail.com
 
 import numpy as np
-from helperFunctions import *
+from helper_functions import *
 from DMD import DMD
 from mrDMD import mrDMD
 import pytest
