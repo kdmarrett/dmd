@@ -88,3 +88,10 @@ Pytest is used for testing run the following at the command line
 ```Bash
 pytest
 ```
+
+## References
+For DMD algorithm details see:
+* "Dynamic Mode Decomposition". J. Nathan Kutz, Steven L. Brunton, Bingni W. Brunton, and Joshua L. Proctor 2016.
+
+For multiresolution DMD algorithm details see:
+* "Multiresolution Dynamic Mode Decomposition". J. Nathan Kutz, Xing Fu, Steven L. Brunton 2016.
